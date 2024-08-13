@@ -13,7 +13,3 @@ Update the dvc.yaml
 
 
 
-
-os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/hardikmore5/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC"
-os.environ["MLFLOW_TRACKING_USERNAME"]="hardikmore5"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="Hardik@0253"
